@@ -159,21 +159,6 @@ Password: user123
 
 ## 📸 Application Screenshots
 
-### 🏠 Home Page
-![Home Page](Screenshots/home-page.png)
-
----
-
-### 🛍️ Products Page
-![Products Page](Screenshots/products-page.png)
-
----
-
-### 📦 Product Details Page
-![Product Details](Screenshots/product-details.png)
-
----
-
 ### 🔐 Login Page
 ![Login Page](Screenshots/Login.png)
 
@@ -185,12 +170,12 @@ Password: user123
 ---
 
 ### 🛒 Shopping Cart
-![Cart Page](Screenshots/Cart Items.png)
+![Cart Page](Screenshots/CartItems.png)
 
 ---
 
 ### 💳 Checkout Page
-![Checkout Page](Screenshots/Payment Checkout.png)
+![Checkout Page](Screenshots/PaymentCheckout.png)
 
 ---
 
