@@ -157,29 +157,45 @@ Password: user123
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
-### Home Page
-
-![Home](Screenshots/home-page.png)
-
-### Products Page
-
-![Products](Screenshots/products-page.png)
-
-### Product Details
-
-![Product Details](Screenshots/product-details.png)
-
-### Shopping Cart
-
-![Cart](Screenshots/cart-page.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](Screenshots/admin-dashboard.png)
+### 🏠 Home Page
+![Home Page](Screenshots/home-page.png)
 
 ---
+
+### 🛍️ Products Page
+![Products Page](Screenshots/products-page.png)
+
+---
+
+### 📦 Product Details Page
+![Product Details](Screenshots/product-details.png)
+
+---
+
+### 🔐 Login Page
+![Login Page](Screenshots/Login.png)
+
+---
+
+### 📝 Register Page
+![Register Page](Screenshots/Register.png)
+
+---
+
+### 🛒 Shopping Cart
+![Cart Page](Screenshots/Cart Items.png)
+
+---
+
+### 💳 Checkout Page
+![Checkout Page](Screenshots/Payment Checkout.png)
+
+---
+
+### 📊 Product Details
+![Admin Dashboard](Screenshots/Products.png)
 
 ## 🔐 Authentication & Security
 
